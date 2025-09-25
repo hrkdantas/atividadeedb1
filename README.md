@@ -52,7 +52,7 @@ int recursao(const char *str, char alvo);
 Conta de forma recursiva quantas vezes um caractere aparece na string.
 Exemplo: "banana", 'a' → retorna 3.
 
-*Exemplos de Testes*
+## *Exemplos de Testes*
 
 No test_algorithms.c tem chamadas assim:
 
