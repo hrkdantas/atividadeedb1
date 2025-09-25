@@ -1,7 +1,7 @@
 # atividadeedb1
 Atividade Prática 01: Algoritmos de busca + Recursão
 Esse repositório tem as implementações que foram pedidas no trabalho.  
-Eu tentei fazer da forma mais simples possível, sem muita coisa complicada.
+
 
 ---
 
